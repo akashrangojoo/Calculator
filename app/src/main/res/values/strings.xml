@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="resultTextString">Result</string>
+    <string name="resultTextTV">Result :</string>
+</resources>
